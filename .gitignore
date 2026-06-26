@@ -192,28 +192,4 @@ pnpm-debug.log*
 *.swo
 *~
 .DS_Store
-Thumbs.db
-
-# Testing
-coverage/
-.nyc_output/
-.eslintcache
-.cypress-cache
-
-# React specific
-.vercel
-
-# ============================================
-# DATABASES
-# ============================================
-
-# PostgreSQL
-*.db
-*.sqlite
-*.sqlite3
-*.pgsql
-
-# MySQL
-*.my.sql
-*.mysqldump
 
