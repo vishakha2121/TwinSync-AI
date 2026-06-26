@@ -426,18 +426,4 @@ alembic/versions/*.py
 *.pyc
 
 # ============================================
-# DEPLOYMENT
-# ============================================
 
-# Deployment artifacts
-deploy/
-deployment/
-*.deploy
-*.deployed
-
-# Terraform
-*.tfstate
-*.tfstate.*
-.terraform/
-
-# 
