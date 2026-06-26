@@ -240,36 +240,4 @@ docker/volumes/
 docker/*.log
 
 # Docker environment
-docker/.env
-docker-compose.override.yml
-docker-compose.override.yaml
-*.docker
 
-# ============================================
-# IDE / EDITOR
-# ============================================
-
-# Visual Studio Code
-.vscode/
-*.code-workspace
-.history/
-
-# IntelliJ IDEA / WebStorm / PyCharm
-.idea/
-*.iml
-*.iws
-*.ipr
-out/
-
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-
-# Vim
-*.swp
-*.swo
-*~
-
-# Emacs
-*~
-\#*
