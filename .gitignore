@@ -801,18 +801,3 @@ error.log
 app.log
 
 # ============================================
-# SECRETS & CONFIGURATION
-# ============================================
-
-# Sensitive files
-*.key
-*.pem
-*.p12
-*.pfx
-*.crt
-*.cer
-*.csr
-*.secret
-*.secure
-*.private
-*.pub.
