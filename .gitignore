@@ -217,27 +217,3 @@ coverage/
 *.my.sql
 *.mysqldump
 
-# Redis
-*.rdb
-*.aof
-
-# Database backups
-*.backup
-*.sql.bak
-*.db.bak
-
-# ============================================
-# DOCKER
-# ============================================
-
-# Docker volumes
-.volumes/
-volumes/
-docker-volumes/
-docker/volumes/
-
-# Docker logs
-docker/*.log
-
-# Docker environment
-
