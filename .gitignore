@@ -874,17 +874,3 @@ temp/
 *.cache
 *.bak
 *.backup
-*.old
-*.orig
-
-# ============================================
-# PROJECT SPECIFIC
-# ============================================
-
-# Auto-generated files
-auto_generated/
-generated/
-compiled/
-
-# Uploads
-
