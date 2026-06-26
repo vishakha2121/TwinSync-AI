@@ -696,19 +696,3 @@ coverage/
 
 # MySQL
 *.my.sql
-*.mysqldump
-
-# Redis
-*.rdb
-*.aof
-
-# Database backups
-*.backup
-*.sql.bak
-*.db.bak
-
-# ============================================
-# DOCKER
-# ============================================
-
-# Docker volumes
