@@ -887,17 +887,4 @@ generated/
 compiled/
 
 # Uploads
-uploads/
-media/
-files/
-
-# Static files
-staticfiles/
-static/
-
-# Migration files (if using automatic generation)
-**/migrations/*.py
-!**/migrations/__init__.py
-**/migrations/*.pyc
-**/migrations/*.pyo
 
