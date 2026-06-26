@@ -1,10 +1,4 @@
-# ============================================
-# TWINSYNC-AI - Complete .gitignore
-# Python + React + PostgreSQL + Docker Project
-# ============================================
 
-
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
