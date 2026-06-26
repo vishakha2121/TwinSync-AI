@@ -712,22 +712,3 @@ coverage/
 # ============================================
 
 # Docker volumes
-.volumes/
-volumes/
-docker-volumes/
-docker/volumes/
-
-# Docker logs
-docker/*.log
-
-# Docker environment
-docker/.env
-docker-compose.override.yml
-docker-compose.override.yaml
-*.docker
-
-# ============================================
-# IDE / EDITOR
-# ============================================
-
-# Visual Studio Code
