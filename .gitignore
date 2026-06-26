@@ -927,17 +927,3 @@ deployment/
 *.secret.yaml
 *.secrets.yaml
 
-# ============================================
-# BUILD TOOLS
-# ============================================
-
-# Make
-*.out
-*.o
-*.so
-
-# CMake
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-Makefile
