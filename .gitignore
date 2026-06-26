@@ -941,21 +941,3 @@ CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
-
-# ============================================
-# EXCEPTIONS (What to keep)
-# ============================================
-
-# Keep these files even if in ignore patterns
-!.gitignore
-!.env.example
-!.dockerignore
-!.pre-commit-config.yaml
-!.github/
-!*.md
-!*.rst
-!LICENSE
-!Dockerfile
-!docker-compose.yml
-!docker-compose.*.yml
-!Makefile
