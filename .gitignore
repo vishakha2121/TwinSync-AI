@@ -783,21 +783,3 @@ Thumbs.db
 .directory_acl
 *-lock
 *.pid
-*.lock
-
-# ============================================
-# LOGS
-# ============================================
-
-logs/
-*.log
-*.pid
-*.tmp
-*.temp
-
-# Access logs
-access.log
-error.log
-app.log
-
-# ============================================
