@@ -856,21 +856,4 @@ examples/
 *.pb
 *.onnx
 *.pt
-*.pth
-*.ckpt
-*.safetensors
-*.tflite
-*.pkl
 
-# ============================================
-# TEMPORARY FILES
-# ============================================
-
-# Temporary files
-tmp/
-temp/
-*.tmp
-*.temp
-*.cache
-*.bak
-*.backup
