@@ -310,29 +310,5 @@ Thumbs.db
 
 logs/
 *.log
-*.pid
-*.tmp
-*.temp
-
-# Access logs
-access.log
-error.log
-app.log
-
-# ============================================
-# SECRETS & CONFIGURATION
-# ============================================
-
-# Sensitive files
-*.key
-*.pem
-*.p12
-*.pfx
-*.crt
-*.cer
-*.csr
-*.secret
-*.secure
-*.private
-*.pub.private
+b.private
 
