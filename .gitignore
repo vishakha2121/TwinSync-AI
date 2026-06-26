@@ -336,19 +336,3 @@ app.log
 *.private
 *.pub.private
 
-# Configuration files with secrets
-config.local.*
-*.local.yaml
-*.local.yml
-*.local.json
-*.local.toml
-secrets.*
-secrets/
-
-# API keys
-.env.secrets
-.env.keys
-api-keys.txt
-
-# ============================================
-
