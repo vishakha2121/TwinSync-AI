@@ -654,19 +654,3 @@ pnpm-debug.log*
 .yarn/cache/
 .yarn/unplugged/
 .yarn/build-state.yml
-.yarn/install-state.gz
-.pnp.*
-
-# Environment files
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-.env.staging.local
-.env.*.local
-
-# IDE files
-.vscode/
-.idea/
-*.swp
