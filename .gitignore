@@ -827,33 +827,4 @@ secrets.*
 secrets/
 
 # API keys
-.env.secrets
-.env.keys
-api-keys.txt
-
-# ============================================
-# DATA FILES
-# ============================================
-
-# Sample data files
-*.csv
-*.xlsx
-*.xls
-*.json
-*.ndjson
-*.parquet
-*.feather
-*.pickle
-
-# Data directories
-data/
-datasets/
-samples/
-examples/
-
-# Model files
-*.h5
-*.pb
-*.onnx
-*.pt
 
