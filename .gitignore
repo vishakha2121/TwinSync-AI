@@ -901,18 +901,3 @@ static/
 **/migrations/*.pyc
 **/migrations/*.pyo
 
-# Alembic
-alembic/versions/*.py
-!alembic/versions/__init__.py
-*.pyc
-
-# ============================================
-# DEPLOYMENT
-# ============================================
-
-# Deployment artifacts
-deploy/
-deployment/
-*.deploy
-*
-
