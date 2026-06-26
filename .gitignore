@@ -488,20 +488,4 @@ Makefile
 # PYTHON
 # ============================================
 
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-*.pyd
-*.pyo
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-
+# 
