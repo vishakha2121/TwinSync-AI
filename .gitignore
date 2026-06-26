@@ -914,16 +914,5 @@ alembic/versions/*.py
 deploy/
 deployment/
 *.deploy
-*.deployed
-
-# Terraform
-*.tfstate
-*.tfstate.*
-.terraform/
-
-# Kubernetes
-*.kubeconfig
-*/.kube/
-*.secret.yaml
-*.secrets.yaml
+*
 
