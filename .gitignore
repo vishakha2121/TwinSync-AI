@@ -288,27 +288,3 @@ $RECYCLE.BIN/
 # macOS
 .DS_Store
 .AppleDouble
-.LSOverride
-._*
-.Spotlight-V100
-.Trashes
-Icon?
-ehthumbs.db
-Thumbs.db
-
-# Linux
-.directory
-*.directory
-.directory_acl
-*-lock
-*.pid
-*.lock
-
-# ============================================
-# LOGS
-# ============================================
-
-logs/
-*.log
-b.private
-
